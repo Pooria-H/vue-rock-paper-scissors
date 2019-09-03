@@ -1,29 +1,16 @@
-# vue-rock-paper-scissors
+# Rock-paper-scissors Game made via Vue.js
 
-## Project setup
-```
-npm install
-```
+![Rock-paper-scissors vue.js](https://raw.githubusercontent.com/Pooria-H/vue-rock-paper-scissors/master/Screenshot.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+------
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+## Setup
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Run `npm i` once to install packages.
+2. Run `npm run serve` for development or `npm run build` for production.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Links
+- [Vue.js documentation](https://vuejs.org/v2/guide/)
+- [Vue CLI documentation](https://cli.vuejs.org/guide/)
