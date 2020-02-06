@@ -51,9 +51,9 @@
 		computed: {
 			createImageSrc() {
 				if (this.shape.length === 0) {
-					return `/images/racing-flag.png`;
+					return `${process.env.VUE_APP_IMAGES_PATH}/racing-flag.png`;
 				} else {
-					return `/images/${this.shape}.png`;
+					return `${process.env.VUE_APP_IMAGES_PATH}/${this.shape}.png`;
 				}
 			}
 		},
